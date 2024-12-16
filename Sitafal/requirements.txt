@@ -8,5 +8,5 @@ openai
 transformers
 beautifulsoup4
 requests
-faiss-cpu  # Or faiss-gpu if you have a GPU
+faiss-cpu  
 sentence-transformers
