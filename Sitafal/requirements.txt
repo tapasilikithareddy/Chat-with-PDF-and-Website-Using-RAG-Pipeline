@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+langchain
+langchain_community
+langchain_anthropic
+python-dotenv
+openai
+transformers
+beautifulsoup4
+requests
+faiss-cpu  # Or faiss-gpu if you have a GPU
+sentence-transformers
